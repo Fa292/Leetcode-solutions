@@ -18,7 +18,7 @@ class Solution(object):
                 curr_sum -= nums[j]
                 j += 1
             
-            i += 1
+            
         return maxAverage
 ```
 
