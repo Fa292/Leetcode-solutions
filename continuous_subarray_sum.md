@@ -3,6 +3,7 @@
 
 ## Implementation
 Optimal solution
+```python
 class Solution(object):
     def checkSubarraySum(self, nums, k):
         hash = {0: -1}
